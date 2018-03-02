@@ -1,0 +1,9 @@
+D:\Aplikacja ZST\SnmpServer\SnmpServer\bin\Debug\SnmpServer.exe.config
+D:\Aplikacja ZST\SnmpServer\SnmpServer\bin\Debug\SnmpServer.exe
+D:\Aplikacja ZST\SnmpServer\SnmpServer\bin\Debug\SnmpServer.pdb
+D:\Aplikacja ZST\SnmpServer\SnmpServer\bin\Debug\SnmpSharpNet.dll
+D:\Aplikacja ZST\SnmpServer\SnmpServer\bin\Debug\SnmpSharpNet.pdb
+D:\Aplikacja ZST\SnmpServer\SnmpServer\bin\Debug\SnmpSharpNet.xml
+D:\Aplikacja ZST\SnmpServer\SnmpServer\obj\Debug\SnmpServer.csprojResolveAssemblyReference.cache
+D:\Aplikacja ZST\SnmpServer\SnmpServer\obj\Debug\SnmpServer.exe
+D:\Aplikacja ZST\SnmpServer\SnmpServer\obj\Debug\SnmpServer.pdb
