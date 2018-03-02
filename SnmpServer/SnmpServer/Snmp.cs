@@ -7,7 +7,7 @@ using SnmpSharpNet;
 
 namespace SnmpServer
 {
-    class Snmp
+public    class Snmp
     {
         private SimpleSnmp _snmp;
 
